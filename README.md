@@ -1,1 +1,2 @@
-# SF-Salaries_project
+# SF-Salaries_project ( Grade- Basic- Data exploration)
+The project under discussion is referred to as "SF Salaries," and its corresponding link is accessible on GitHub. I have provided comprehensive SQL and Python Pandas code for this particular project. The dataset encompasses salary information categorized by year, aiming to offer a deeper understanding of how San Francisco compensates its employees.
